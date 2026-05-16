@@ -95,9 +95,9 @@ CSV_PATH = "titanic.csv"
 
 ![Pie Chart](images/pie_chart.png)
 
-- 3rd Class: **55.1%** of total passengers
 - 1st Class: **24.2%**
 - 2nd Class: **20.7%**
+- 3rd Class: **55.1%**
 
 ### 3. Line Graph – Average Fare by Age Group
 
